@@ -1,1 +1,5 @@
-# fishingatlas
+# Fishing Atlas
+
+## Central Coast
+
+- Terrigal Haven: cast lures for tailors from the rocks
