@@ -9,4 +9,4 @@
 ## Brisbane Water
 
 - Gosford public wharf
-- Gosford Foreshore: rocks
+- Gosford Foreshore: stay on rocks
