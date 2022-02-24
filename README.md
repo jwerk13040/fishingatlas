@@ -9,3 +9,4 @@
 ## Brisbane Water
 
 - Gosford public wharf
+- Gosford Foreshore
